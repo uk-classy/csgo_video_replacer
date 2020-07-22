@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\csvideoreplacer\csvideoreplacer\bin\Debug\csvideoreplacer.exe.config
+C:\Users\user\source\repos\csvideoreplacer\csvideoreplacer\bin\Debug\csvideoreplacer.exe
+C:\Users\user\source\repos\csvideoreplacer\csvideoreplacer\bin\Debug\csvideoreplacer.pdb
+C:\Users\user\source\repos\csvideoreplacer\csvideoreplacer\obj\Debug\csvideoreplacer.csprojAssemblyReference.cache
+C:\Users\user\source\repos\csvideoreplacer\csvideoreplacer\obj\Debug\csvideoreplacer.exe
+C:\Users\user\source\repos\csvideoreplacer\csvideoreplacer\obj\Debug\csvideoreplacer.pdb
