@@ -1,0 +1,1 @@
+To use this, simply Navigate to the release section of the build and copy the video.txt of your choosing to same directory as the executable. Then simply run the executable file for it to be replaced.
